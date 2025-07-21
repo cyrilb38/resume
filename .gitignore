@@ -1,0 +1,28 @@
+# R-related files
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.Rprofile
+
+# Caches and logs
+*_cache/
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.~*
+
+# Temporary folders from pagedown rendering
+pagedown-browsers/
+
+# RStudio project files
+*.Rproj
+
+# macOS system files
+.DS_Store
+
+# Node modules (if using npm for styling or assets)
+node_modules/
